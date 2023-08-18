@@ -19,7 +19,7 @@ public class SolutionTest {
 
     @Test
     public void maximalNetworkRankTest2() {
-        int n = 4;
+        int n = 5;
         int[][] roads = {
                 {0, 1},
                 {0, 3},
